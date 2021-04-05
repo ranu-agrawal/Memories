@@ -5,7 +5,7 @@
 ![Memories](https://i.ibb.co/s14Ck7F/Screenshot-2021-04-05-at-12-30-59-AM.png)
 ![Memories](https://i.ibb.co/sCxWKHB/Screenshot-2021-04-05-at-12-42-20-AM.png)
 
-A full stack social media application built in MERN stack.
+A full stack social media application built in MERN stack that allows users to post interesting events that happened in their lives.
 
 Currently the app includes features such as posting, liking, updating and deleting posts.
 
