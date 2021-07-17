@@ -43,8 +43,26 @@ Email login using JWT and OAuth Google Login.
 # Acknowledgements
 - [Javascript Mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&ist=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
 
-# Contribute
-Contributions, issues and feature requests are welcome!
+### To Contribute
 
-# Show your support:
-Give a ⭐️ if you find this repo useful!
+- Please [create a pull request](https://github.com/ranu-agrawal/Memories/pulls) so the main code is still up and running
+
+```
+$ git add .
+$ git commit -m "<set-your-commit>"
+$ git branch -M <branch-name>
+$ git push -u origin <branch-name>
+```
+
+- For more features or in case of any bugs, [raise an issue](https://github.com/ranu-agrawal/Memories/issues).
+
+### Reach out
+
+[@ranu-agrawal:](https://github.com/ranu-agrawal)
+[![LinkedIn][2.2]][2]
+
+[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
+
+[2]: https://www.linkedin.com/in/ranu-agrawal/ 
+
+Email: ranuagrawal0983@gmail.com
